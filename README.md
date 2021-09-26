@@ -7,4 +7,4 @@ available in the website, in the course try to include notes and videos.
 
 
 
-https://shakth.netlify.app/index.html
+https://shakth.netlify.app
