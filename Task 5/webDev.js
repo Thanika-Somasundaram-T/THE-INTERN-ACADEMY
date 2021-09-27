@@ -1,9 +1,5 @@
 import { loop, setVideo } from "./upNext.js";
 
-
-
-// change this index text and video src links : )
-
 const indexes = [
 	{
 		text:'What is HTML',
